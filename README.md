@@ -1,4 +1,5 @@
-# This is a sample repository for the git course
+# This is a sample repository / app for the git course
+
 
 # Git Demo Repo
 Tim Corey Git Demo
